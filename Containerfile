@@ -1,1 +1,1 @@
-FROM factory.talos.dev/metal-installer/4c07b4dcf2cd2753e2ccc5ade6bd1c004222abdce248242f3b6711c9f5814c61:v1.11.0-beta.1@sha256:f790967a507e877e4ac029e07982fa9d187ed7adb64cfe8c09773cd3247e51c7
+FROM factory.talos.dev/metal-installer/4c07b4dcf2cd2753e2ccc5ade6bd1c004222abdce248242f3b6711c9f5814c61:v1.13.0-beta.1@sha256:27a838e073e59b606b7b822e5734047f28ee4368cacae7640f53207ea4a899c9
